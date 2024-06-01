@@ -7,7 +7,7 @@ This is a simple Rock Paper Scissors web app where the computer plays against it
 ## Features
 
 - Displays a randomly generated Rock, Paper, or Scissors symbol for both the left and right sides.
-- The winne will be highlited ij=n the text field.
+- The winner will be highlited in the text field.
 - Repeats the game every 100ms for 4 seconds and then shows the final result.
 
 ## How to use
